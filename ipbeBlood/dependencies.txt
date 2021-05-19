@@ -1,0 +1,4 @@
+MATLAB	9.8.0.1538580 (R2020a) Update 6
+libSBML	5.17.0
+RAVEN_toolbox	2.5.0
+COBRA_toolbox	unknown
